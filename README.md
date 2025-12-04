@@ -1,64 +1,58 @@
-Automation Workflow – Technical Editing Case Study
+# Automation Workflow – Technical Editing Case Study
 
-This repository showcases my work as a technical editor and technical content designer, focused on transforming fragmented automation workflow notes into clear, structured, globally understandable documentation.
-The workflows in this project involve Make.com → ClickUp → Google Sheets → Smartsheet, mirroring real-world business automation systems.
+This repository showcases my work as a **technical editor and technical content designer**, focused on transforming fragmented automation workflow notes into clear, structured, globally understandable documentation. The workflows represented in this project involve **Make.com → ClickUp → Google Sheets → Smartsheet**, mirroring real-world business automation systems.
 
 The goal of this project is to demonstrate how I:
 
-Apply copyediting, substantive editing, and developmental editing to technical process documentation
+- Transform raw automation notes into **clear, concise SOPs**
+- Apply **copyediting, substantive editing, and developmental editing** to technical workflows
+- Maintain **technical accuracy** while improving readability for diverse global audiences
+- Eliminate ambiguity and ensure documentation is **unbiased, inclusive, and translatable**
+- Apply editorial logic similar to AWS Certification content: clarity, fairness, consistency
+- Demonstrate assessment thinking through knowledge-check questions
 
-Convert raw SME notes into accurate, repeatable SOPs
+---
 
-Use global English standards to ensure clarity for international audiences
+## Context
 
-Identify and eliminate ambiguity for both technical and non-technical stakeholders
+Automation workflows are often captured in inconsistent, unclear formats by subject-matter experts. This project reveals both the **“before”** and **“after”** stages of editorial transformation, showcasing how I:
 
-Think like an AWS Certification Technical Editor, prioritizing clarity, fairness, and precise sequencing
+- Reconstruct missing context  
+- Reorder steps into a logical, task-based flow  
+- Apply global English principles  
+- Use consistent terminology across tools  
+- Ensure instructions are unambiguous and technically correct  
 
-Enhance documentation with before/after comparisons, style guidance, and assessment-style questions
+Although not a certification exam, this project mirrors the editorial standards required for AWS Certification exam documentation, practice materials, and technical reference guides.
 
-Context
+---
 
-Automation workflows are frequently documented in inconsistent or unclear ways.
-This project presents both the raw “before” state and the editorially improved “after” state, demonstrating:
+## Repository Structure
 
-How I structure instructions logically
+- **`01-original-workflow-notes.md`**  
+  Raw, unedited SME notes representing the typical starting point before editorial review.
 
-How I add missing context and preconditions
+- **`02-edited-sop-and-process-guide.md`**  
+  The fully edited and structured SOP with improved clarity, sequencing, and global readability.
 
-How I improve readability and technical accuracy
+- **`03-before-after-comparisons.md`**  
+  Side-by-side comparisons highlighting major editorial improvements.
 
-How I create content that is suitable for training, onboarding, or certification-style evaluation
+- **`04-style-guide-and-global-english.md`**  
+  Writing and editing rules applied during the transformation process.
 
-This project mirrors the work a Technical Editor does with AWS exam content, exam guides, and technical reference documentation.
+- **`05-assessment-style-questions.md`**  
+  Scenario-based questions demonstrating exam-style thinking and clarity.
 
-📁 Repository Structure
+---
 
-01-original-workflow-notes.md
-Raw, unedited SME notes showing the starting point.
+## Skills Demonstrated
 
-02-edited-sop-and-process-guide.md
-A polished Standard Operating Procedure using AWS-style clarity and global English.
+- Technical editing for automation and workflow documentation  
+- Clear communication of multi-system processes (Make.com, ClickUp, Google Sheets, Smartsheet)  
+- Global English editing for international audiences  
+- Structuring complex workflows into readable SOPs  
+- Eliminating ambiguity through precise editorial decisions  
+- Designing documentation that supports **assessment-quality clarity and fairness**  
+- Creating scenario-based, exam-style questions  
 
-03-before-after-comparisons.md
-Side-by-side comparisons illustrating substantive editing decisions.
-
-04-style-guide-and-global-english.md
-The editorial rules and writing principles applied to the content.
-
-05-assessment-style-questions.md
-Knowledge-check questions designed to demonstrate assessment development thinking.
-
-🎯 Skills Demonstrated
-
-Technical editing (copyediting, developmental editing, structural editing)
-
-Transforming raw notes into clear, accurate, production-ready documentation
-
-Creating readable, globally accessible content using global English standards
-
-Ensuring consistency across modules, tools, terminology, and workflows
-
-Designing documentation suitable for exams, training materials, and certification content
-
-Writing scenario-based and assessment-style questions similar to AWS Certification
