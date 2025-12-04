@@ -1,51 +1,64 @@
 Automation Workflow – Technical Editing Case Study
 
-This repository showcases my work as a technical editor transforming fragmented automation workflow notes into a clear, structured, globally readable SOP.
-The workflows represented here involve Make.com → ClickUp → Smartsheet automation pipelines similar to systems used in real business operations.
+This repository showcases my work as a technical editor and technical content designer, focused on transforming fragmented automation workflow notes into clear, structured, globally understandable documentation.
+The workflows in this project involve Make.com → ClickUp → Google Sheets → Smartsheet, mirroring real-world business automation systems.
 
-This case study demonstrates my ability to:
+The goal of this project is to demonstrate how I:
 
-Perform copyediting, substantive editing, and developmental editing
+Apply copyediting, substantive editing, and developmental editing to technical process documentation
 
-Turn raw SME notes into polished, repeatable documentation
+Convert raw SME notes into accurate, repeatable SOPs
 
-Apply global English standards for a diverse audience
+Use global English standards to ensure clarity for international audiences
 
-Improve clarity and eliminate ambiguity for technical and non-technical readers
+Identify and eliminate ambiguity for both technical and non-technical stakeholders
 
-Structure complex workflows into actionable, testable steps
+Think like an AWS Certification Technical Editor, prioritizing clarity, fairness, and precise sequencing
 
-Think like a Certification Technical Editor by integrating fairness, clarity, and assessment-style thinking
+Enhance documentation with before/after comparisons, style guidance, and assessment-style questions
+
+Context
+
+Automation workflows are frequently documented in inconsistent or unclear ways.
+This project presents both the raw “before” state and the editorially improved “after” state, demonstrating:
+
+How I structure instructions logically
+
+How I add missing context and preconditions
+
+How I improve readability and technical accuracy
+
+How I create content that is suitable for training, onboarding, or certification-style evaluation
+
+This project mirrors the work a Technical Editor does with AWS exam content, exam guides, and technical reference documentation.
 
 📁 Repository Structure
 
 01-original-workflow-notes.md
-Raw, unedited workflow notes — similar to SME input before editorial review.
+Raw, unedited SME notes showing the starting point.
 
 02-edited-sop-and-process-guide.md
-The fully edited SOP using AWS-style clarity and global English standards.
+A polished Standard Operating Procedure using AWS-style clarity and global English.
 
 03-before-after-comparisons.md
-Side-by-side comparisons showing the editorial transformation.
+Side-by-side comparisons illustrating substantive editing decisions.
 
 04-style-guide-and-global-english.md
-The editorial rules and style principles applied throughout.
+The editorial rules and writing principles applied to the content.
 
 05-assessment-style-questions.md
-Knowledge-check questions demonstrating assessment-style thinking.
+Knowledge-check questions designed to demonstrate assessment development thinking.
 
 🎯 Skills Demonstrated
 
-Technical editing for automation workflows
+Technical editing (copyediting, developmental editing, structural editing)
 
-SOP development and clarity improvement
+Transforming raw notes into clear, accurate, production-ready documentation
 
-Global English writing for international audiences
+Creating readable, globally accessible content using global English standards
 
-Bias-free and ambiguity-free instruction design
+Ensuring consistency across modules, tools, terminology, and workflows
 
-Cross-tool technical communication (Make, ClickUp, Smartsheet)
+Designing documentation suitable for exams, training materials, and certification content
 
-Assessment-style item development and clarity checking
-
-This project aligns directly with responsibilities of the Technical Editor, AWS Certification role, where clarity, fairness, and accurate technical communication are essential.
+Writing scenario-based and assessment-style questions similar to AWS Certification
